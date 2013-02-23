@@ -21,6 +21,7 @@
 - [RubyKaigi 2013][2]
 - [Asakusa.rb][3]
 - [Kaminarimon][4]
+- [Sensō-ji][5]
 
 ## Photos
 
@@ -29,3 +30,4 @@
 [2]: http://rubykaigi.org/2013
 [3]: http://asakusa.rubyist.net
 [4]: http://en.wikipedia.org/wiki/Kaminarimon
+[5]: http://en.wikipedia.org/wiki/Sens%C5%8D-ji
