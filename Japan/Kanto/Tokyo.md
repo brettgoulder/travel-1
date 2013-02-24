@@ -22,6 +22,7 @@
 - [Asakusa.rb][3]
 - [Kaminarimon][4]
 - [Sensō-ji][5]
+- [Ghibli Museum][6]
 
 ## Photos
 
@@ -31,3 +32,4 @@
 [3]: http://asakusa.rubyist.net
 [4]: http://en.wikipedia.org/wiki/Kaminarimon
 [5]: http://en.wikipedia.org/wiki/Sens%C5%8D-ji
+[6]: http://www.ghibli-museum.jp/en/
