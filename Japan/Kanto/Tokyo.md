@@ -18,7 +18,7 @@
 
 ## Activities
 
-- [RubyKaigi 2013][2]
+- Speaking at [RubyKaigi 2013][2]
 - [Asakusa.rb][3]
 - [Kaminarimon][4]
 - [Sensō-ji][5]
@@ -29,7 +29,7 @@
 
 [0]: http://en.wikipedia.org/wiki/Tokyo
 [1]: http://www.tokyo.park.hyatt.com/en/hotel/home.html
-[2]: http://rubykaigi.org/2013
+[2]: http://rubykaigi.org/2013/talk/S85
 [3]: http://asakusa.rubyist.net
 [4]: http://en.wikipedia.org/wiki/Kaminarimon
 [5]: http://en.wikipedia.org/wiki/Sens%C5%8D-ji
